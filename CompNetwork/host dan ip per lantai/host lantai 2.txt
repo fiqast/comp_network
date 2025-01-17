@@ -1,0 +1,34 @@
+Lantai 2
+
+M2A: 15
+M2B: 15
+M2C: 15
+M2D: 15
+
+L2A: 40
+L2B: 40
+L2C: 40
+L2D: 40
+L2E: 40
+L2F: 40
+
+R2A: 20
+R2B: 20
+R2C: 20
+
+K2A: 15
+K2B: 15
+K2C: 30
+K2D: 30
+K2E: 30
+K2F: 30
+
+J2A: 10
+J2B: 10
+
+LabComp: 30
+ITDir: 10
+R.Fakultas: 10
+Security: 5
+
+TOTAL: 585

@@ -1,0 +1,38 @@
+Lantai 1
+
+M1A: 10
+M1B: 10
+M1C: 10
+M1D: 10
+
+R1A: 20
+R1B: 20
+R1C: 20
+
+L1A: 40
+L1B: 40
+L1C: 40
+L1D: 40
+L1E: 20
+L1F: 40
+
+K1A: 20
+K1B: 20
+K1C: 20
+K1D: 20
+K1E: 20
+K1F: 20
+
+J1A: 30
+J1B: 30
+
+QMC: 5
+Akademis: 10
+Fasilkom: 5
+R.Professor: 15
+Rektorat: 3
+Gedung Rektorat: 3
+
+
+
+TOTAL: 541

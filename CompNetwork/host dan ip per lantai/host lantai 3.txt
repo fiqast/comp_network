@@ -1,0 +1,37 @@
+Lantai 3
+
+M3A: 15
+M3B: 15
+M3CD: 30
+
+L3A: 40
+L3B: 40
+L3C: 40
+L3D: 40
+L3E: 40
+L3F: 40
+
+K3A: 30
+K3B: 30
+K3C: 30
+K3D: 30
+K3E: 30
+K3F: 30
+
+J3A: 20
+J3B: 20
+
+HallKecil: 20
+HallBesar: 50
+
+RStaffDKV: 5
+
+StudioGreenScreen: 5
+R.Makeup: 5
+Radio: 5
+Studio: 10
+R.Staff: 5
+R.Control: 5
+Panel: 5
+
+TOTAL: 635
